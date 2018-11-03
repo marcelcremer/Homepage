@@ -1,6 +1,6 @@
 # main text of home
 name: Marcel Cremer
-bio: Fullstack TypeScript developer interested in Technical stuff.
+bio: Consultant, Programmer, Game addict
 
 # twitter summary info
 description: Consultant, Programmer, Game addict
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.xing.com/profile/Marcel_Cremer2
 
 url: https://marcelcremer.github.io/
 
