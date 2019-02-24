@@ -26,9 +26,9 @@ His current projects are build on Angular or Vue and Nodejs.
 	<li>Continuous Integration (Gitlab CI, Jenkins, Bamboo)</li>
 </ul>
 
-<h2>Projects</h2>
+<!--h2>Projects</h2>
 
-<!--ul>
+<ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
