@@ -2,15 +2,16 @@
 title: "Start. Testing. Now!"
 layout: post
 date: 2018-09-18 12:00
-#image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: /assets/images/markdown.jpg
 headerImage: false
-projects: false
-#hidden: true # don't count this post in blog pagination
-description: "A wake-up call to every developer who procastinates about writing tests"
-tag: motivation,unittests,testing,programming
+tag:
+    - motivation
+    - unittests
+    - testing
+    - programming
 category: blog
 author: marcelcremer
-externalLink: false
+description: A wake-up call to every developer who procastinates about writing tests
 ---
 
 Hello hello - nice that you got here!
