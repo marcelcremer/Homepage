@@ -5,9 +5,10 @@ date: 2019-01-30 12:00
 image: assets/images/5tips.png
 headerImage: false
 projects: false
+blog: true
 #hidden: true # don't count this post in blog pagination
 description: "5 Tips to organize your growing npm scripts"
-category: blog, npm, javascript, node.js
+category: npm, javascript, node.js
 author: marcelcremer
 externalLink: false
 ---
