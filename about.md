@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Marcel is a Consultant and lead Developer at CK7 GmbH in germany. 
+<p>Marcel is Consultant and lead Developer at CK7 GmbH in Germany. 
 He's interested in Technologies, Patterns and Clean Code. On he's publishing technical articles 
 about java- and typescript, nodejs, REST-APIs and frontend-development on dev.to and this blog. 
 His current projects are build on Angular or Vue and Nodejs.
