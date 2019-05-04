@@ -5,10 +5,10 @@ date: 2019-02-01 12:00
 image: /assets/images/howi.png
 headerImage: true
 projects: false
-blog: true
 #hidden: true # don't count this post in blog pagination
 description: "A small journey through my personal learnings about web icons and how they are displayed."
-category: npm, javascript, node.js
+tag: npm, javascript, node.js
+category: blog
 author: marcelcremer
 externalLink: false
 ---

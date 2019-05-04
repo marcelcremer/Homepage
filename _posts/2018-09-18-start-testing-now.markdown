@@ -7,7 +7,8 @@ headerImage: false
 projects: false
 #hidden: true # don't count this post in blog pagination
 description: "A wake-up call to every developer who procastinates about writing tests"
-category: motivation,unittests,testing,programming
+tag: motivation,unittests,testing,programming
+category: blog
 author: marcelcremer
 externalLink: false
 ---
