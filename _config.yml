@@ -33,7 +33,7 @@ permalink: /:title/
 #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: ma_cremer
+twitter: mcremer_en
 github: marcelcremer
 stackoverflow: /4251337/marcel-cremer
 email: hello@marcel-cremer.de
