@@ -7,7 +7,7 @@ headerImage: false
 projects: false
 #hidden: true # don't count this post in blog pagination
 description: "5 Tips to organize your growing npm scripts"
-category: npm, javascript, node.js
+category: blog, npm, javascript, node.js
 author: marcelcremer
 externalLink: false
 ---
