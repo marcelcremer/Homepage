@@ -7,7 +7,10 @@ headerImage: true
 projects: false
 #hidden: true # don't count this post in blog pagination
 description: "A small journey through my personal learnings about web icons and how they are displayed."
-tag: npm, javascript, node.js
+tag:
+    - npm
+    - javascript
+    - node.js
 category: blog
 author: marcelcremer
 externalLink: false
