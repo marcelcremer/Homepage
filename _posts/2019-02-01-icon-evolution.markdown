@@ -1,5 +1,5 @@
 ---
-title: "The Icon evolution and "How I switched from Font based Icons to SVG"
+title: The Icon evolution and "How I switched from Font based Icons to SVG"
 layout: post
 date: 2019-02-01 12:00
 image: assets/images/howi.png
