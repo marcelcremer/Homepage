@@ -8,7 +8,7 @@ description: Consultant, Programmer, Game addict
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: /assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -59,7 +59,7 @@ authors:
         name: Marcel Cremer
         bio: Consultant, Full Stack Dev, Game addict. CDO @ CK7 GmbH. Loving Nodejs, Typescript and Angular. Interested in Clean Code, agile methods and Software Engineering
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: /assets/images/profile.jpg
         twitter: mcremer_de
 
 # do you want a larger site? change the option below
