@@ -5,7 +5,6 @@ date: 2019-01-30 12:00
 image: /assets/images/5tips.png
 headerImage: true
 projects: false
-#hidden: true # don't count this post in blog pagination
 description: "5 Tips to organize your growing npm scripts"
 tag:
     - npm
