@@ -2,7 +2,7 @@
 title: "5 Tips for better NPM script organization"
 layout: post
 date: 2019-01-30 12:00
-image: assets/images/5tips.png
+image: /assets/images/5tips.png
 headerImage: true
 projects: false
 blog: true
