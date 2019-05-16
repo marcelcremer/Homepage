@@ -42,7 +42,7 @@ So how do we get rid of that _"free memory / do a bit more work / free memory"_-
 
 ### Increasing the node memory limit with max_old_space_size
 
-Node has a simple flag to change the maximum RAM consumption before the garbage collector will start to agressively free up memory. It's like
+Node has a simple flag to change the maximum RAM consumption before the garbage collector will start to agressively free up memory. You can use it like
 
 `node --max_old_space_size=_size in MB_`
 
