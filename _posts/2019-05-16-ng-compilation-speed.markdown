@@ -38,7 +38,7 @@ Okay, to be a bit more specific:
 -   it seperates often used code pieces for shared use into a common chunk
 -   ...and much much more :)
 
-So how do we get rid of that _"free memory / do a bit ore work / free memory"_-cycle?
+So how do we get rid of that _"free memory / do a bit more work / free memory"_-cycle?
 
 ### Increasing the node memory limit with max_old_space_size
 
