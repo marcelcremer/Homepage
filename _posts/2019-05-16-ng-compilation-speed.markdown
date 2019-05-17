@@ -17,9 +17,9 @@ externalLink: false
 
 Do you have a large angular application that takes too long to compile / serve / compile tests? This little thing helped me:
 
-### Increase the node process memory
+### Increasing the node process memory
 
-By default, a node process can take up to 1,76GB of RAM. This is by original design of Javascript, where the assumption was, that a single thread (which node has) will not exceed a total of 2 GB RAM.
+By default, a node process can take up to 1,76GB of RAM. This is by original design of Javascript, where the assumption was, that a single thread (which node has) will not exceed a total of 2GB RAM.
 
 However, things got a bit more complex the last few years, because JavaScript frameworks evolved and allowed to compose different libraries to a framework or in our case - the angular compile mechanism.
 
